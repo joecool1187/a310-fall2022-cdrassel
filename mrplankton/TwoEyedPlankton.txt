@@ -194,4 +194,4 @@ goto, -62, 195, 1, black
 penup
 goto, -55, 211, 1, black
 pendown
-goto, -77, 203, 1, black
+goto, -77, 203, 1, red
